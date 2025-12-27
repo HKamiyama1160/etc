@@ -1,7 +1,8 @@
 # Creating PWL file for LTspice simulation.
-  PWL_burst_pulse.xlsm
+  PWL_burst_pulse.xlsm  
   generate burst pulse pattern for transient sim.
   
 # Decode data from oscilloscope data.
+  decode_v1.py  
   decode data from time, clock , data, from DSO csv file.
   
